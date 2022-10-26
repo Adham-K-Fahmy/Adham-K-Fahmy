@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Adham-K-Fahmy
-- 👀 I’m interested in Python, C++ and, Java
+- 👀 I’m interested in Python, C++ and problem solving
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me noorcool116@gmail.com
+- 📫 How to reach me adham.kh.fahmy@gmail.com
 
 <!---
 Adham-K-Fahmy/Adham-K-Fahmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
